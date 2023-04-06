@@ -1,7 +1,7 @@
 {"spider": "https://agit.ai/xxpctv/m/raw/branch/master/ar/323tt",
 "wallpaper": "https://tool.weetai.cn/api",
 "sites":[{"key":"Tutu_spider","name":"TuTu","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"SRK#e%4UYtU#KiEo*vsPqpr0cC4bxAQWqiaojio6sYmm*x5hn#rcCt"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext": "http://我不是.肥猫.love:63/token.php","jar":"https://agit.ai/xxpctv/m/raw/branch/master/ar/fm0404"}, 
+{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext": "http://我不是.肥猫.love:63/token.php","jar":"https://agit.ai/xxpctv/m/raw/branch/master/ar/0404fm"}, 
 {"key":"MV","name":"MV","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://download.kstore.space/download/2883/PY/bili1.json","jar":"https://download.kstore.space/download/2883/PY/1010.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"drpy_js_JRKAN直播","name":"球赛","type" : 3,"api" : "https://download.kstore.space/download/2883/drpy.min.js","ext" : "https://agit.ai/xxpctv/m/raw/branch/master/py/JRKAN.js"}
