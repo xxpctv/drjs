@@ -1,4 +1,4 @@
-{"spider": "https://agit.ai/xxpctv/m/raw/branch/master/ar/tt323",
+{"spider": "https://agit.ai/xxpctv/m/raw/branch/master/ar/323tt",
 "wallpaper": "https://tool.weetai.cn/api",
 "sites":[{"key":"Tutu_spider","name":"TuTu","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"SRK#e%4UYtU#KiEo*vsPqpr0cC4bxAQWqiaojio6sYmm*x5hn#rcCt"},
 {"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext": "http://我不是.肥猫.love:63/token.php","jar":"https://agit.ai/xxpctv/m/raw/branch/master/ar/fm0404"}, 
