@@ -1,0 +1,2 @@
+{"urls": [{"url": "https://agit.ai/xxpctv/m/raw/branch/master/py/py_dz.py","name": "南风"},{"url": "https://pastebin.com/raw/5NHaxyGR","name": "道长"},{"url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json","name": "蜂蜜"},
+{"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name": "苹果"},{"url": "https://agit.ai/xxpctv/m/raw/branch/master/ar/407","name":"月光"},{"url":"https://agit.ai/kvymin/TV/raw/branch/master/maoys.json", "name": "猫影"},{"url": "https://神器每日推送.tk/pz.json", "name": "神器"}]}
