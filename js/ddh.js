@@ -1,5 +1,4 @@
-{"lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-"spider": "https://agit.ai/xxpctv/m/raw/branch/master/py/Yoursmile.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+{"spider": "https://agit.ai/xxpctv/m/raw/branch/master/py/Yoursmile.jar;md5;613066B0150C902B3D51BDE7A433BE83",
 "sites":[{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
