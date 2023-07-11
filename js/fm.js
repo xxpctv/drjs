@@ -1,2 +1,2 @@
-{"urls": [{"url": "https://agit.ai/xxpctv/m/raw/branch/master/py/py_dz.py","name": "南风"},{"url": "https://pastebin.com/raw/5NHaxyGR","name": "道长"},{"url": "https://weixine.net/ysc.json","name": "运输"},
-{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫"},{"url": "https://codeberg.org/xxpctv/ck/raw/branch/main/py/drpy%20%282%29.js","name":"集合"},{"url":"https://download.kstore.space/download/3313/mao/ymz", "name": "夜猫"},{"url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米"}]}
+{"urls": [{"url": "https://pastebin.com/raw/5NHaxyGR","name": "道长"},{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风"},{"url": "https://codeberg.org/xxpctv/n/raw/branch/main/py/py_xc.py","name": "自用"},
+{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫"},{"url": "https://codeberg.org/xxpctv/ck/raw/branch/main/py/drpy%20%282%29.js","name":"集合"},{"url":"http://xzam.cn:66/tv", "name": "小胡"},{"url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米"}]}
