@@ -3,29 +3,21 @@
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"XC"},
 {"url":"clan://localhost/xt/mzy.json","name":"bd"},
 {"url":"clan://localhost/xt/XP.json","name":"XP"},
-{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风线路"},
-{"url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", "name": "FongMi" },
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", "name": "FongMi" },
+{"url": "https://codeberg.org/xxpctv/n/raw/branch/main/py/py_xc.py","name": "xc"},
 {"url": "https://notabug.org/ygfxz/6/raw/main/000.m3u8","name":"000" },
 {"url": "https://weixine.net/ysc.json","name": "ysc"},
-{"url": "https://calendre.top/TVBox/YXHC.json","name": "yxhc"},
 {"url":"https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json","name":"Pandora"},
 {"url":"https://agit.ai/xxpctv/m/raw/branch/master/py/py_dz.py","name":"dz"},
-{"url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json","name": "蜂蜜"},
-{"url": "https://codeberg.org/xxpctv/ck/raw/branch/main/py/drpy%20%282%29.js", "name": "drpy" },
-{"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92", "name": "ygbh"},
-{"url": "http://饭太硬.ga/tv","name": "饭太硬"},
+{"url": "http://饭太硬.top/tv","name": "饭太硬"},
 {"url": "https://yydsys.top/duo","name": "duo"},
 {"url": "https://pastebin.com/raw/5NHaxyGR", "name": "js0"},
-{"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/js.json", "name": "js接口" },
 {"url":"https://codeberg.org/xxpctv/ck/raw/branch/main/py/py_mzy.py","name":"mz"},
-{"url": "https://notabug.org/oo/gao/raw/master/js.json", "name": "js接口1" },
 {"url": "https://notabug.org/xxpctv/diy/raw/master/mao/py.py","name": "央视py"},
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫"},
-{"url":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json","name":"XYQ"},
-{"url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8","name":"不良帅"},
-{"url":"https://drpyxxpctv-1.xxpctv.repl.co/config/2?ver=0","name":"drpypc"},
-{"url": "https://download.kstore.space/download/3313/mao/ymz","name": "ymz"}, 
-{"url": "https://dybz.store/dybz", "name": "dybz" } 
+{"url": "https://codeberg.org/xxpctv/ck/raw/branch/main/py/drpy%20%282%29.js", "name": "drpy" },
+{"url":"https://drpyxxpctv-1.xxpctv.repl.co/config/2?ver=0","name":"drpypc"}
+
 
 
 
