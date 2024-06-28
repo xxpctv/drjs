@@ -5,7 +5,6 @@
 {"url": "https://notabug.org/xxpctv/dz/raw/master/py/py_dzn.py","name": "DZ"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/xxpctv/MusicF/main/py/py_xc.py","name":"自用"},
 {"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"DD"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/zxwwp/TVBox/master/20221115.json", "name": "zxwwp"},
 {"url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "Piza2"},
 {"url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"XC"}
 ]}
